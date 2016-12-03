@@ -16,6 +16,10 @@
 		17F3C9ED1DF3166B00A62C31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17F3C9EB1DF3166B00A62C31 /* LaunchScreen.storyboard */; };
 		17F3C9F81DF3166B00A62C31 /* gamedoanchuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F3C9F71DF3166B00A62C31 /* gamedoanchuTests.swift */; };
 		17F3CA031DF3166B00A62C31 /* gamedoanchuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F3CA021DF3166B00A62C31 /* gamedoanchuUITests.swift */; };
+		17F3CA111DF316A700A62C31 /* free-iphone-4-wallpapers-1032ios.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17F3CA101DF316A700A62C31 /* free-iphone-4-wallpapers-1032ios.jpg */; };
+		17F3CA131DF316B100A62C31 /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17F3CA121DF316B100A62C31 /* images.jpg */; };
+		17F3CA151DF316BC00A62C31 /* pen-clip-art-ink-pen.png in Resources */ = {isa = PBXBuildFile; fileRef = 17F3CA141DF316BC00A62C31 /* pen-clip-art-ink-pen.png */; };
+		17F3CA171DF316CB00A62C31 /* water-sand-glass-wine-drawing-bottle-cartoon.png in Resources */ = {isa = PBXBuildFile; fileRef = 17F3CA161DF316CB00A62C31 /* water-sand-glass-wine-drawing-bottle-cartoon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		17F3C9FE1DF3166B00A62C31 /* gamedoanchuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gamedoanchuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17F3CA021DF3166B00A62C31 /* gamedoanchuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gamedoanchuUITests.swift; sourceTree = "<group>"; };
 		17F3CA041DF3166B00A62C31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17F3CA101DF316A700A62C31 /* free-iphone-4-wallpapers-1032ios.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "free-iphone-4-wallpapers-1032ios.jpg"; path = "../../New folder/free-iphone-4-wallpapers-1032ios.jpg"; sourceTree = "<group>"; };
+		17F3CA121DF316B100A62C31 /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = images.jpg; path = "../../New folder/images.jpg"; sourceTree = "<group>"; };
+		17F3CA141DF316BC00A62C31 /* pen-clip-art-ink-pen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "pen-clip-art-ink-pen.png"; path = "../../New folder/pen-clip-art-ink-pen.png"; sourceTree = "<group>"; };
+		17F3CA161DF316CB00A62C31 /* water-sand-glass-wine-drawing-bottle-cartoon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "water-sand-glass-wine-drawing-bottle-cartoon.png"; path = "../../New folder/water-sand-glass-wine-drawing-bottle-cartoon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +115,10 @@
 				17F3C9E41DF3166B00A62C31 /* GameViewController.swift */,
 				17F3C9E61DF3166B00A62C31 /* Main.storyboard */,
 				17F3C9E91DF3166B00A62C31 /* Assets.xcassets */,
+				17F3CA161DF316CB00A62C31 /* water-sand-glass-wine-drawing-bottle-cartoon.png */,
+				17F3CA141DF316BC00A62C31 /* pen-clip-art-ink-pen.png */,
+				17F3CA121DF316B100A62C31 /* images.jpg */,
+				17F3CA101DF316A700A62C31 /* free-iphone-4-wallpapers-1032ios.jpg */,
 				17F3C9EB1DF3166B00A62C31 /* LaunchScreen.storyboard */,
 				17F3C9EE1DF3166B00A62C31 /* Info.plist */,
 			);
@@ -235,10 +247,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17F3CA111DF316A700A62C31 /* free-iphone-4-wallpapers-1032ios.jpg in Resources */,
+				17F3CA151DF316BC00A62C31 /* pen-clip-art-ink-pen.png in Resources */,
 				17F3C9E11DF3166B00A62C31 /* GameScene.sks in Resources */,
+				17F3CA171DF316CB00A62C31 /* water-sand-glass-wine-drawing-bottle-cartoon.png in Resources */,
 				17F3C9ED1DF3166B00A62C31 /* LaunchScreen.storyboard in Resources */,
 				17F3C9EA1DF3166B00A62C31 /* Assets.xcassets in Resources */,
 				17F3C9E81DF3166B00A62C31 /* Main.storyboard in Resources */,
+				17F3CA131DF316B100A62C31 /* images.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
